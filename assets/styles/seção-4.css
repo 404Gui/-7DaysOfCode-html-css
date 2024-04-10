@@ -1,0 +1,28 @@
+.depoimentos {
+    text-align: center;
+    background-color: var(--cor-vermelho-de-fundo);
+    margin: 96px 4em;
+    padding: 3em ;
+    border-radius: 16px;
+}
+
+.depoimentos__texto {
+    color: var(--cor-vermelho-principal);
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.depoimentos__titulo {
+    font-size: 36px;
+    margin: 1em;
+}
+
+.depoimentos__nome {
+    margin: .5em;
+}
+
+.depoimentos__funcao {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--cor-cinza-secundario);
+}

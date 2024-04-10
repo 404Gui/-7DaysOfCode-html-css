@@ -1,0 +1,127 @@
+.vagas {
+    text-align: center;
+}
+
+.vagas__caixa {
+    margin: auto;
+    width: 90%;
+
+}
+
+.mensagem__vagas {
+    background-color: var(--cor-vermelho-de-fundo);
+    font-size: 14px;
+    color: var(--cor-vermelho-principal);
+    display: inline-block;
+    border-radius: 16px;
+    padding: 0.3em 0.3em;
+}
+
+.vagas__titulo__um {
+    margin: 1em;
+    font-size: 36px;
+    font-weight: 600;
+    
+}
+
+.vagas__titulo {
+    width: 80%;
+    margin: auto;
+}
+
+.vagas__texto{
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--cor-cinza-secundario);
+}
+
+.reuniao__pessoas {
+    
+    margin: 2em 3em;
+}
+
+.profissao {
+    border-radius: 12px;
+    border: solid 1px rgba(234, 236, 240, 1);
+    text-align: left;
+    padding: 1.5em;
+    margin: 1rem 0;
+}
+
+
+.area__titulo {
+    font-size: 20px;
+    color: var(--preto-claro);
+    text-align: left;
+    margin: 1em 0;
+}
+
+.vagas__profissao {
+    font-size: 18px;
+    margin-bottom: 2em;
+}
+
+.vaga__infos {
+    font-size: 16px;
+    color: var(--cor-cinza-secundario);
+    display: inline;
+    
+}
+
+
+
+
+
+
+
+
+
+
+/* .vagas {    
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
+
+.vagas__caixa2{
+    text-align: center;
+}
+
+
+.vagas__titulo {
+    margin: auto;
+    width: 80%;
+}
+
+
+
+.profissao__titulo {
+    font-size: 20px;
+    color: var(--cor-preto);
+    font-family: var(--fonte-principal);
+    font-weight: 500;
+    text-align: left;
+    margin: 1rem 0
+
+}
+
+.vagas__box {
+    border: solid 1px rgba(234, 236, 240, 1);
+    border-radius: 12px;
+    padding: 1.5em;
+    margin: 2em 0;
+   
+}
+
+.vagas__profissao {
+    color: var(--cor-preto);
+    font-size: 18px;
+    margin-bottom: 1em;
+}
+
+.vaga__infos {
+    color: var(--cor-cinza-secundario);
+   margin: 0 .5em;
+   display: inline-block;
+}
+ */

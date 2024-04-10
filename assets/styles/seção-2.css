@@ -1,0 +1,33 @@
+.metricas__container {
+    display: flex;
+    justify-content: space-between;
+    margin: 3em 4em;
+    /* gap: 6rem; */
+    
+    
+}
+
+.metricas__item {
+    margin-left: 4em;
+}
+
+.metricas__titulo {
+    color: var(--cor-vermelho-principal);
+    font-size: 60px;
+    font-weight: 600;
+    font-family: var(--fonte-principal);
+}
+
+.metricas__descricao {
+    margin: 1em 0;
+    font-family: var(--fonte-principal);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.metricas__texto {
+    margin-right: 2em;
+    color: var(--cor-cinza-secundario);
+    font-size: 16px;
+    font-family: var(--fonte-principal);
+}

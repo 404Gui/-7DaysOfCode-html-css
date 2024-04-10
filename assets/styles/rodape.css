@@ -1,0 +1,49 @@
+.rodape {
+    text-align: center;
+    background-color: var(--cor-branco-escuro);
+    padding: 10%;
+}
+
+.rodape__titulo {
+
+    font-size: 36px;
+    font-weight: 600;
+
+}
+
+.rodape__texto{
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cor-cinza-secundario);
+    margin: 2.5em;
+    
+}
+
+#rodape__email {
+
+    padding: 12px;
+    border: solid 1px #D0D5DD;
+    border-radius: 12px;
+        
+}
+
+.rodape__copyright{
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--cor-cinza-secundario);
+    margin-top: 2em;
+}
+
+#botao__cadastro{
+    
+
+    background-color: var(--cor-vermelho-principal);
+    color: white;
+    
+    font-family: var(--fonte-principal);
+    font-weight: 500;
+    padding: 12px;
+    border-radius: 8px;
+    margin-right: 1em;
+}
+

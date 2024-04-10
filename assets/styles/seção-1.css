@@ -1,0 +1,32 @@
+.principal {
+    text-align: center;
+    margin-top: 6em;
+}
+
+.principal__mensagem {
+    color: var(--cor-vermelho-principal);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 600;
+    
+}
+
+
+.principal__titulo {
+
+    margin: 1em 0;
+    font-size: 48px;
+    font-weight: 600;
+    font-family: var(--fonte-principal);
+
+}
+
+.principal__texto {
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--cor-cinza-secundario);
+    font-family: var(--fonte-principal);
+    margin: 0 324px;
+    margin-bottom: 96px;
+    
+}
